@@ -1,6 +1,6 @@
 package com.cecehedrick.module1;
 
-import com.cecehedrick.module1.AGitSubmodule.submodule.superCoolPkg.Yolo;
+import AGitSubmodule.submodule.superCoolPkg.Yolo;
 
 
 /**
